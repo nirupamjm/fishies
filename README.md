@@ -1,8 +1,8 @@
 # fishies
 
-<a href="" width="20%" height="173"></a> 
 
-<a href="http://www.pidramble.com"><img src="https://github.com/EtricKombat/fishies/blob/master/WhatsApp%20Image%202020-05-07%20at%202.58.27%20PM.jpeg" width="50%" height="400"> 
+
+<a href="http://www.pidramble.com"><img src="https://github.com/EtricKombat/fishies/blob/master/WhatsApp%20Image%202020-05-07%20at%202.58.27%20PM.jpeg" width="900%" height="800"> 
 
 
 # Other apps (central/state government apps)

@@ -41,3 +41,9 @@ https://github.com/nic-delhi/AarogyaSetu_Android
 
 # Other apps
 https://github.com/rebekahjacob/Bevq
+
+## Video Links
+
+https://www.youtube.com/watch?v=-uAd1oifGLk
+
+https://www.youtube.com/watch?v=bPFrnbYJR7U

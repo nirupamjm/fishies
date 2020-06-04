@@ -2,7 +2,7 @@
 
 
 
-<a href="http://www.pidramble.com"><img src="https://github.com/EtricKombat/fishies/blob/master/WhatsApp%20Image%202020-05-07%20at%202.58.27%20PM.jpeg" width="900%" height="800"> 
+<a href="http://www.pidramble.com"><img src="https://github.com/EtricKombat/fishies/blob/master/docs/pics/fishes_logo.jpeg" width="900%" height="800"> 
 
 ## Similar apps
 <table>

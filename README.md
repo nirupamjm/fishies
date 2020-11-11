@@ -7,10 +7,6 @@
   
   
  
-  
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sz25xxF_AVE/0.jpg)]( https://youtu.be/sz25xxF_AVE)
-  
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D5xqcGk6LEc/0.jpg)](https://youtu.be/D5xqcGk6LEc)
 
 
 ## Similar apps
@@ -60,7 +56,10 @@ https://github.com/rebekahjacob/Bevq
   <tr><td>2.</td><td><a href=""></a></td><td>Django Learning</td></tr>
   <tr><td>3.</td><td><a href=""></a></td><td>Whatsapp business</td></tr>
   <tr><td>4.</td><td><a href=""></a></td><td>gps tracker/ fuel measurement ?</td></tr>
+   <tr><td>5.</td><td><a href=""></a></td><td>Face Recoginization</td></tr>
 </table>
+
+  
 
 
 

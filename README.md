@@ -53,6 +53,15 @@ https://github.com/rebekahjacob/Bevq
 
 ## Video Links
 
+<table>
+   <tr><th>SlNo</th><th>Link </th><th>Description</th></tr>
+   <tr><td>1.</td><td><a href=""></a></td><td>Kirloskar KC Compressor 
+</td></tr>
+  <tr><td>2.</td><td><a href=""></a></td><td>Django Learning</td></tr>
+  <tr><td>3.</td><td><a href=""></a></td><td>Whatsapp business</td></tr>
+  <tr><td>4.</td><td><a href=""></a></td><td>gps tracker/ fuel measurement ?</td></tr>
+</table>
+
 
 
 

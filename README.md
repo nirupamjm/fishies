@@ -2,7 +2,16 @@
 
 
 
-<a href="http://www.pidramble.com"><img src="https://github.com/EtricKombat/fishies/blob/master/docs/pics/fishes_logo.jpeg" width="900%" height="800"> 
+<a href="http://www.pidramble.com"><img src="https://github.com/EtricKombat/fishies/blob/master/docs/pics/fishes_logo.jpeg" width="250" height="400"> 
+  
+  
+  
+ 
+  
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sz25xxF_AVE/0.jpg)]( https://youtu.be/sz25xxF_AVE)
+  
+  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D5xqcGk6LEc/0.jpg)](https://youtu.be/D5xqcGk6LEc)
+
 
 ## Similar apps
 <table>
